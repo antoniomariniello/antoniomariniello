@@ -6,7 +6,7 @@ Richiede Node >=22.12.
 - npm install
 - npm run dev — http://127.0.0.1:4322/
 - npm run build — genera dist/
-- npm run verify — controlla tutte le pagine, i file e l'ordine delle fotografie
+- npm run verify — controlla tutte le pagine, i file e l'ordine delle fotografie`n- npm run deploy — genera `dist/` e pubblica gli asset statici tramite Cloudflare Workers
 - node scripts/browser-check.mjs — verifica desktop/mobile con Edge, a server locale avviato
 
 ## Contenuti
@@ -26,7 +26,8 @@ Il sito non include analytics, cookie applicativi o font remoti. La pagina priva
 
 ## Pubblicazione
 Output completamente statico: npm run build, cartella dist. Nessun adapter server, PHP o database.
-Compatibile con hosting statico (incluso Cloudflare Pages). La scelta e attivazione dell'hosting non sono state effettuate.
+Compatibile con hosting statico (incluso Cloudflare Pages). La scelta e attivazione dell'hosting non sono state effettuate.`nPer Cloudflare Workers è presente `wrangler.jsonc`: il comando di build è `npm run build` e il comando di deploy è `npx wrangler deploy`.
 Collegare il dominio direttamente al nuovo hosting, evitando redirect mascherati tramite iframe.
 Il passaggio da hosting Aruba a dominio + email va concordato con Aruba verificando il servizio attuale. Mantenere intatti MX e record email SPF, DKIM, DMARC. Non cancellare caselle o dominio.
 Prima di dismettere WordPress: conservare backup completo file/database, verificare la nuova pubblicazione e tutti gli URL, completare i contatti e verificare invio/ricezione email.
+
