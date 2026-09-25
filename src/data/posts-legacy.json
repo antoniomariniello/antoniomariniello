@@ -1,0 +1,151 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "date": "2022-09-28T09:02:46",
+      "date_gmt": "2022-09-28T07:02:46",
+      "guid": {
+        "rendered": "http://www.antoniomariniello.com/?p=1"
+      },
+      "modified": "2022-09-28T09:02:46",
+      "modified_gmt": "2022-09-28T07:02:46",
+      "slug": "ciao-mondo",
+      "status": "publish",
+      "type": "post",
+      "link": "https://www.antoniomariniello.com/ciao-mondo/",
+      "title": {
+        "rendered": "Ciao mondo!"
+      },
+      "content": {
+        "rendered": "\n<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>\n",
+        "protected": false
+      },
+      "excerpt": {
+        "rendered": "<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/posts/1"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/comments?post=1"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 1,
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/posts/1/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 75,
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/posts/1/revisions/75"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/media?parent=1"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/categories?post=1"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/tags?post=1"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "post": 1,
+      "parent": 0,
+      "author": 0,
+      "author_name": "Un commentatore di WordPress",
+      "author_url": "https://it.wordpress.org/",
+      "date": "2022-09-28T09:02:46",
+      "date_gmt": "2022-09-28T07:02:46",
+      "content": {
+        "rendered": "<p>Ciao, questo è un commento.<br />\nPer iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.<br />\nGli avatar di chi lascia un commento sono forniti da <a href=\"https://it.gravatar.com/\">Gravatar</a>.</p>\n"
+      },
+      "link": "https://www.antoniomariniello.com/ciao-mondo/#comment-1",
+      "status": "approved",
+      "type": "comment",
+      "author_avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=96&d=mm&r=g"
+      },
+      "meta": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/comments/1"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/comments"
+          }
+        ],
+        "up": [
+          {
+            "embeddable": true,
+            "post_type": "post",
+            "href": "https://www.antoniomariniello.com/wp-json/wp/v2/posts/1"
+          }
+        ]
+      }
+    }
+  ]
+}

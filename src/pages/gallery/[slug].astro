@@ -1,0 +1,7 @@
+---
+import Album from "../../components/Album.astro";
+import site from "../../data/site.json";
+export function getStaticPaths(){return site.albums.map(album=>({params:{slug:album.slug},props:{album}}));}
+const {album}=Astro.props;
+---
+<Album album={album} />

@@ -1,0 +1,1412 @@
+{
+  "albums": [
+    {
+      "slug": "world",
+      "title": "World",
+      "path": "/album/world/",
+      "photos": [
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_1-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 1",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_2-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 2",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_3-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 3",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_4-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 4",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_5-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 5",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_6.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_6-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 6",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_7.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_7-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 7",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_8.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_8-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 8",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_9.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_9-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 9",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_10.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_10-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 10",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_11.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_11-800x532.jpg",
+          "caption": "",
+          "alt": "World — fotografia 11",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_12.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_12-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 12",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_13.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_13-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 13",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_14.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_14-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 14",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_15.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_15-800x532.jpg",
+          "caption": "",
+          "alt": "World — fotografia 15",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_16.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_16-800x532.jpg",
+          "caption": "",
+          "alt": "World — fotografia 16",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_17.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_17-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 17",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_18.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_18-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 18",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_19.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_19-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 19",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_20.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_20-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 20",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_21.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_21-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 21",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_22.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_22-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 22",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_23.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_23-800x532.jpg",
+          "caption": "",
+          "alt": "World — fotografia 23",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_24.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_24-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 24",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_25.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_25-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 25",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_26.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_26-800x533.jpg",
+          "caption": "",
+          "alt": "World — fotografia 26",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_27.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_27-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 27",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_28.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_28-800x531.jpg",
+          "caption": "",
+          "alt": "World — fotografia 28",
+          "width": 1920,
+          "height": 1275
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_29.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_29-800x531.jpg",
+          "caption": "",
+          "alt": "World — fotografia 29",
+          "width": 1920,
+          "height": 1275
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_30.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_30-800x508.jpg",
+          "caption": "",
+          "alt": "World — fotografia 30",
+          "width": 1920,
+          "height": 1220
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_31.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_31-800x531.jpg",
+          "caption": "",
+          "alt": "World — fotografia 31",
+          "width": 1920,
+          "height": 1274
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_32.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_32-800x531.jpg",
+          "caption": "",
+          "alt": "World — fotografia 32",
+          "width": 1920,
+          "height": 1275
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_33.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_33-800x436.jpg",
+          "caption": "",
+          "alt": "World — fotografia 33",
+          "width": 1920,
+          "height": 1047
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_34.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_34-800x477.jpg",
+          "caption": "",
+          "alt": "World — fotografia 34",
+          "width": 1920,
+          "height": 1145
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_36.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_36-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 35",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_37.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_37-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 36",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_38.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_38-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 37",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_39.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_39-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 38",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_40.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_40-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 39",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_41.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_41-800x506.jpg",
+          "caption": "",
+          "alt": "World — fotografia 40",
+          "width": 1920,
+          "height": 1215
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_42.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_42-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 41",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_43.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_43-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 42",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_44.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_44-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 43",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_45.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_45-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 44",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_46.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_46-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 45",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_47.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_47-800x640.jpg",
+          "caption": "",
+          "alt": "World — fotografia 46",
+          "width": 1920,
+          "height": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_48.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_48-800x600.jpg",
+          "caption": "",
+          "alt": "World — fotografia 47",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_49.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_49-800x330.jpg",
+          "caption": "",
+          "alt": "World — fotografia 48",
+          "width": 1920,
+          "height": 791
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_50.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_50-800x531.jpg",
+          "caption": "",
+          "alt": "World — fotografia 49",
+          "width": 1920,
+          "height": 1275
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_51.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_51-800x450.jpg",
+          "caption": "",
+          "alt": "World — fotografia 50",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_52.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_52-800x532.jpg",
+          "caption": "",
+          "alt": "World — fotografia 51",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_1-800x1205.jpg",
+          "caption": "",
+          "alt": "World — fotografia 52",
+          "width": 1275,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_2-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 53",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_3-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 54",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_4-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 55",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_5-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 56",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_6.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_6-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 57",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_7.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_7-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 58",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_8.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_8-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 59",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_9.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_9-800x1203.jpg",
+          "caption": "",
+          "alt": "World — fotografia 60",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_10.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_10-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 61",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_11.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_11-800x1202.jpg",
+          "caption": "",
+          "alt": "World — fotografia 62",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_12.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_12-800x1235.jpg",
+          "caption": "",
+          "alt": "World — fotografia 63",
+          "width": 1244,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_13.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_13-800x1067.jpg",
+          "caption": "",
+          "alt": "World — fotografia 64",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_14.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_gallery_vert_14-800x1205.jpg",
+          "caption": "",
+          "alt": "World — fotografia 65",
+          "width": 1275,
+          "height": 1920
+        }
+      ],
+      "cover": "/wp-content/uploads/2022/09/antoniomariniello_gallery_1-800x600.jpg"
+    },
+    {
+      "slug": "events",
+      "title": "Events",
+      "path": "/album/events/",
+      "photos": [
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_1-1200x900.jpg",
+          "caption": "Caserta fashion awards 2013",
+          "alt": "Caserta fashion awards 2013",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_2-1200x900.jpg",
+          "caption": "Caserta fashion awards 2013",
+          "alt": "Caserta fashion awards 2013",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_3-1200x900.jpg",
+          "caption": "Caserta fashion awards 2013",
+          "alt": "Caserta fashion awards 2013",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa13_4-1200x900.jpg",
+          "caption": "Caserta fashion awards 2013",
+          "alt": "Caserta fashion awards 2013",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_1-1200x900.jpg",
+          "caption": "Caserta fashion awards 2014",
+          "alt": "Caserta fashion awards 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_2-1200x900.jpg",
+          "caption": "Caserta fashion awards 2014",
+          "alt": "Caserta fashion awards 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_3-1200x900.jpg",
+          "caption": "Caserta fashion awards 2014",
+          "alt": "Caserta fashion awards 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_4-1200x900.jpg",
+          "caption": "Caserta fashion awards 2014",
+          "alt": "Caserta fashion awards 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_casertafa14_5-1200x900.jpg",
+          "caption": "Caserta fashion awards 2014",
+          "alt": "Caserta fashion awards 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_1-1200x900.jpg",
+          "caption": "Napoli fashion week 2014",
+          "alt": "Napoli fashion week 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_2-1200x900.jpg",
+          "caption": "Napoli fashion week 2014",
+          "alt": "Napoli fashion week 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_3-1200x900.jpg",
+          "caption": "Napoli fashion week 2014",
+          "alt": "Napoli fashion week 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_4-1200x900.jpg",
+          "caption": "Napoli fashion week 2014",
+          "alt": "Napoli fashion week 2014",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_events_napolifw14_5-1200x900.jpg",
+          "caption": "Napoli fashion week 2014",
+          "alt": "Napoli fashion week 2014",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "cover": "/wp-content/uploads/2022/10/antoniomariniello_events_casertafa13_4-800x600.jpg"
+    },
+    {
+      "slug": "work",
+      "title": "Work",
+      "path": "/album/work/",
+      "photos": [
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_1-800x450.jpg",
+          "caption": "antico forno ai serpenti",
+          "alt": "antico forno ai serpenti",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_2-800x450.jpg",
+          "caption": "antico forno ai serpenti",
+          "alt": "antico forno ai serpenti",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_3-800x450.jpg",
+          "caption": "antico forno ai serpenti",
+          "alt": "antico forno ai serpenti",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_antico_forno_ai_serpenti_4-800x450.jpg",
+          "caption": "antico forno ai serpenti",
+          "alt": "antico forno ai serpenti",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_baptism_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_baptism_1-800x450.jpg",
+          "caption": "Battesimo Pasquale",
+          "alt": "Battesimo Pasquale",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_baptism_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_baptism_2-800x450.jpg",
+          "caption": "Battesimo Pasquale",
+          "alt": "Battesimo Pasquale",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_barcode_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_barcode_1-800x450.jpg",
+          "caption": "Barcode Pozzuoli",
+          "alt": "Barcode Pozzuoli",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_barcode_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_barcode_2-800x450.jpg",
+          "caption": "Barcode Pozzuoli",
+          "alt": "Barcode Pozzuoli",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_barcode_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_barcode_3-800x450.jpg",
+          "caption": "Barcode Pozzuoli",
+          "alt": "Barcode Pozzuoli",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_bebresidenzafermi_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_bebresidenzafermi_1-800x450.jpg",
+          "caption": "B&B Residenza Fermi",
+          "alt": "B&B Residenza Fermi",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_bebresidenzafermi_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_bebresidenzafermi_2-800x450.jpg",
+          "caption": "B&B Residenza Fermi",
+          "alt": "B&B Residenza Fermi",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_1-800x450.jpg",
+          "caption": "Bottega bio",
+          "alt": "Bottega bio",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_2-800x450.jpg",
+          "caption": "Bottega bio",
+          "alt": "Bottega bio",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_3-800x450.jpg",
+          "caption": "Bottega bio",
+          "alt": "Bottega bio",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_bottega_bio_4-800x450.jpg",
+          "caption": "Bottega bio",
+          "alt": "Bottega bio",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_ceinge_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_ceinge_1-800x450.jpg",
+          "caption": "Ceinge",
+          "alt": "Ceinge",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_ceinge_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_ceinge_2-800x450.jpg",
+          "caption": "Ceinge",
+          "alt": "Ceinge",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_elbarrio_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_elbarrio_1-800x450.jpg",
+          "caption": "El Barrio",
+          "alt": "El Barrio",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_elbarrio_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_elbarrio_2-800x450.jpg",
+          "caption": "antico forno ai serpenti",
+          "alt": "antico forno ai serpenti",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_factory_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_factory_1-800x450.jpg",
+          "caption": "Federicalunello",
+          "alt": "Federicalunello",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_factory_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_factory_2-800x450.jpg",
+          "caption": "Federicalunello",
+          "alt": "Federicalunello",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_fiorillo.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_fiorillo-800x450.jpg",
+          "caption": "Fiorillo",
+          "alt": "Fiorillo",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_1-800x450.jpg",
+          "caption": "Federicalunello",
+          "alt": "Federicalunello",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_2-800x450.jpg",
+          "caption": "Federicalunello",
+          "alt": "Federicalunello",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_3-800x450.jpg",
+          "caption": "Federicalunello",
+          "alt": "Federicalunello",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_lunello_4-800x450.jpg",
+          "caption": "Federicalunello",
+          "alt": "Federicalunello",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_opaeseemasaniell_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_opaeseemasaniell_1-800x450.jpg",
+          "caption": "B&B O paese e Masaniell",
+          "alt": "B&B O paese e Masaniell",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_opaeseemasaniell_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_opaeseemasaniell_2-800x450.jpg",
+          "caption": "B&B O paese e Masaniell",
+          "alt": "B&B O paese e Masaniell",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_wedding_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_wedding_1-800x450.jpg",
+          "caption": "Matrimonio",
+          "alt": "Matrimonio",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_work_wedding_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_work_wedding_2-800x450.jpg",
+          "caption": "Matrimonio",
+          "alt": "Matrimonio",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "cover": "/wp-content/uploads/2022/10/antoniomariniello_work_opaeseemasaniell_1-800x600.jpg"
+    },
+    {
+      "slug": "portraiture",
+      "title": "Portraiture",
+      "path": "/album/portraiture/",
+      "photos": [
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_1-800x1203.jpg",
+          "caption": "Book Arianna",
+          "alt": "Book Arianna",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_2-800x533.jpg",
+          "caption": "Book Arianna",
+          "alt": "Book Arianna",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_3-800x532.jpg",
+          "caption": "Book Arianna",
+          "alt": "Book Arianna",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_4-800x800.jpg",
+          "caption": "Book Arianna",
+          "alt": "Book Arianna",
+          "width": 1920,
+          "height": 1921
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_arianna_5-800x1202.jpg",
+          "caption": "Book Arianna",
+          "alt": "Book Arianna",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_claudia_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_claudia_1-800x533.jpg",
+          "caption": "Book Claudia",
+          "alt": "Book Claudia",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_1-800x532.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_2-800x533.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_3-800x1203.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_4-800x533.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_d_5-800x1202.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_1-800x533.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_2-800x532.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_3-800x533.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_4-800x532.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_enza_p_5-800x532.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_flowers.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_flowers-800x533.jpg",
+          "caption": "Book Flowers",
+          "alt": "Book Flowers",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_1-800x533.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_2-800x1202.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_3-800x1202.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_4-800x533.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_5-800x532.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_6.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_6-800x1202.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_7.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_7-800x533.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_8.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_8-800x533.jpg",
+          "caption": "Book Natasha",
+          "alt": "Book Natasha",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_rossella_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_rossella_1-800x1203.jpg",
+          "caption": "Book Rossella",
+          "alt": "Book Rossella",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_rossella_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_rossella_2-800x1200.jpg",
+          "caption": "Book Flowers",
+          "alt": "Book Flowers",
+          "width": 1280,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_1-800x533.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_2-800x533.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_3-800x532.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1277
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_4-800x625.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1500
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_5-800x533.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_6.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_6-800x533.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_7.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_sabrina_7-800x533.jpg",
+          "caption": "Book Sabrina",
+          "alt": "Book Sabrina",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_1-800x1205.jpg",
+          "caption": "Book Serena",
+          "alt": "Book Serena",
+          "width": 1275,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_2-800x1202.jpg",
+          "caption": "Book Serena",
+          "alt": "Book Serena",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_3-800x1202.jpg",
+          "caption": "Book Serena",
+          "alt": "Book Serena",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_4-800x1202.jpg",
+          "caption": "Book Serena",
+          "alt": "Book Serena",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_5-800x1202.jpg",
+          "caption": "Book Serena",
+          "alt": "Book Serena",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_6.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_6-800x533.jpg",
+          "caption": "Book Serena",
+          "alt": "Book Serena",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_7.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_serena_7-800x533.jpg",
+          "caption": "Book Enza",
+          "alt": "Book Enza",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_1-800x1202.jpg",
+          "caption": "Book Suemi",
+          "alt": "Book Suemi",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_2-800x1202.jpg",
+          "caption": "Book Suemi",
+          "alt": "Book Suemi",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_3-800x1202.jpg",
+          "caption": "Book Suemi",
+          "alt": "Book Suemi",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_4-800x1202.jpg",
+          "caption": "Book Suemi",
+          "alt": "Book Suemi",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_suemi_5-800x1202.jpg",
+          "caption": "Book Suemi",
+          "alt": "Book Suemi",
+          "width": 1278,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_1.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_1-800x1203.jpg",
+          "caption": "Book Tiziana",
+          "alt": "Book Tiziana",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_2.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_2-800x533.jpg",
+          "caption": "Book Tiziana",
+          "alt": "Book Tiziana",
+          "width": 1920,
+          "height": 1278
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_3.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_3-800x1203.jpg",
+          "caption": "Book Tiziana",
+          "alt": "Book Tiziana",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_4.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_4-800x1203.jpg",
+          "caption": "Book Tiziana",
+          "alt": "Book Tiziana",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_5.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_5-800x1203.jpg",
+          "caption": "Book Tiziana",
+          "alt": "Book Tiziana",
+          "width": 1277,
+          "height": 1920
+        },
+        {
+          "src": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_6.jpg",
+          "thumb": "/wp-content/uploads/2022/09/antoniomariniello_book_tiziana_6-800x1202.jpg",
+          "caption": "Book Tiziana",
+          "alt": "Book Tiziana",
+          "width": 1278,
+          "height": 1920
+        }
+      ],
+      "cover": "/wp-content/uploads/2022/09/antoniomariniello_book_natasha_5-1-800x600.jpg"
+    }
+  ],
+  "slides": [
+    {
+      "title": "Venezia",
+      "src": "/wp-content/uploads/2022/09/venezia.jpg"
+    },
+    {
+      "title": "Zanzibar",
+      "src": "/wp-content/uploads/2022/09/zanzibar.jpg"
+    },
+    {
+      "title": "Milano",
+      "src": "/wp-content/uploads/2022/09/milano.jpg"
+    },
+    {
+      "title": "Berlino",
+      "src": "/wp-content/uploads/2022/09/berlino.jpg"
+    },
+    {
+      "title": "Napoli",
+      "src": "/wp-content/uploads/2022/09/napoli.jpg"
+    },
+    {
+      "title": "Firenze",
+      "src": "/wp-content/uploads/2022/09/firenze.jpg"
+    },
+    {
+      "title": "Napoli",
+      "src": "/wp-content/uploads/2022/09/napoli_2.jpg"
+    },
+    {
+      "title": "Aversa",
+      "src": "/wp-content/uploads/2022/09/aversa.jpg"
+    },
+    {
+      "title": "Napoli",
+      "src": "/wp-content/uploads/2022/09/napoli_4.jpg"
+    },
+    {
+      "title": "Valencia",
+      "src": "/wp-content/uploads/2022/09/valencia.jpg"
+    },
+    {
+      "title": "Roma",
+      "src": "/wp-content/uploads/2022/09/roma.jpg"
+    },
+    {
+      "title": "Napoli",
+      "src": "/wp-content/uploads/2022/09/napoli-3.jpg"
+    },
+    {
+      "title": "Dublino",
+      "src": "/wp-content/uploads/2022/09/dublino.jpg"
+    },
+    {
+      "title": "Caserta",
+      "src": "/wp-content/uploads/2022/09/caserta.jpg"
+    },
+    {
+      "title": "Sofia",
+      "src": "/wp-content/uploads/2022/09/sofia.jpg"
+    },
+    {
+      "title": "Bucarest",
+      "src": "/wp-content/uploads/2022/09/Bucarest.jpg"
+    },
+    {
+      "title": "Genova",
+      "src": "/wp-content/uploads/2022/09/genova.jpg"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/anto_9285/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/antonio.mariniello.9285"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/antoniomariniello/"
+    },
+    {
+      "name": "X / Twitter",
+      "url": "https://twitter.com/mrantonio9285"
+    }
+  ]
+}

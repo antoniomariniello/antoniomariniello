@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/Layout.astro";
+import legacy from "../data/privacy-legacy.json";
+---
+<Layout title="Privacy — Antonio Mariniello" noindex={true}>
+<section class="text-page"><p class="eyebrow">Informazioni sul sito</p><h1>Privacy.</h1>
+<p>Questo portfolio presenta le fotografie di Antonio Mariniello. Le pagine e le immagini sono servite come file statici: non sono presenti registrazione, commenti, strumenti di analisi o moduli di invio dati.</p>
+<p>I collegamenti ai profili social aprono servizi esterni, ai quali si applicano le rispettive informative.</p>
+<details><summary>Informativa del precedente sito WordPress, conservata in archivio</summary><p>Il testo seguente proviene dalla versione precedente del sito e descrive funzionalità WordPress che non sono presenti in questo portfolio.</p><div class="archive-copy" set:html={legacy.html} /></details>
+</section></Layout>

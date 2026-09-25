@@ -1,0 +1,23 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Photo from "./Photo.astro";
+import site from "../data/site.json";
+interface Props { album:typeof site.albums[number]; }
+const {album}=Astro.props;
+const descriptions:Record<string,string>={world:"Luoghi, incontri, frammenti di viaggio.",events:"L'energia di un momento, prima che passi.",work:"Spazi, dettagli e storie da raccontare.",portraiture:"Persone. Espressioni. Presenze."};
+const next=site.albums[(site.albums.findIndex(a=>a.slug===album.slug)+1)%site.albums.length];
+---
+<Layout title={album.title+" — Antonio Mariniello"} description={album.title+": "+album.photos.length+" fotografie di Antonio Mariniello. "+descriptions[album.slug]} canonical={album.path} image={album.photos[0].src}>
+<section class="album-heading"><a class="back-link" href="/collection/164-2/">← Tutte le gallerie</a><div><p class="eyebrow">Portfolio / {album.title}</p><h1>{album.title}<span class="period">.</span></h1><p>{descriptions[album.slug]}</p></div><span class="album-total">{String(album.photos.length).padStart(2,"0")}<small>fotografie</small></span></section>
+<section class:list={["photo-grid",album.slug]} aria-label={"Fotografie "+album.title}>
+{album.photos.map((p,i)=><figure class="photo-item"><a href={p.src} data-photo data-index={i} data-caption={p.caption || album.title+" / "+String(i+1).padStart(2,"0")} aria-label={"Apri "+p.alt}><Photo src={p.src} alt={p.alt} sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 33vw" eager={i<3} /></a>{p.caption && <figcaption>{p.caption}</figcaption>}</figure>)}
+</section>
+<a class="next-album" href={next.path}><span class="eyebrow">Prossima galleria</span><span>{next.title}</span></a>
+<dialog id="lightbox" class="lightbox" aria-label={"Visualizzatore fotografie "+album.title}>
+<div class="lightbox-top"><span id="lightbox-count"></span><button class="lightbox-close" aria-label="Chiudi fotografia">Chiudi ×</button></div>
+<button class="lightbox-previous" aria-label="Fotografia precedente">←</button>
+<figure><img id="lightbox-image" alt="" /><figcaption id="lightbox-caption" aria-live="polite"></figcaption></figure>
+<button class="lightbox-next" aria-label="Fotografia successiva">→</button>
+</dialog>
+</Layout>
+<script>import "../scripts/lightbox";</script>

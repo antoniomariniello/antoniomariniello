@@ -1,0 +1,6 @@
+---
+import Layout from "../layouts/Layout.astro";
+import legacy from "../data/posts-legacy.json";
+const post=legacy.posts[0];
+---
+<Layout title="Ciao mondo! — Antonio Mariniello" noindex={true}><section class="text-page"><p class="eyebrow">Archivio</p><h1>{post.title.rendered}</h1><div set:html={post.content.rendered} />{legacy.comments.map(c=><blockquote><p>{c.author_name}</p><div set:html={c.content.rendered}/></blockquote>)}</section></Layout>

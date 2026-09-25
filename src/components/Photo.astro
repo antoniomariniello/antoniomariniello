@@ -1,0 +1,8 @@
+---
+import images from "../data/images.json";
+interface Props { src:string; alt:string; class?:string; sizes?:string; eager?:boolean; }
+const {src,alt,class:className,sizes="(max-width: 700px) 100vw, 50vw",eager=false}=Astro.props;
+const image=images[src as keyof typeof images];
+const variants=(image?.variants || []).filter((v,i,all)=>all.findIndex(x=>x.width===v.width)===i);
+---
+<img class={className} src={variants[0]?.src || src} srcset={variants.length ? variants.map(v=>v.src+" "+v.width+"w").join(", ") : undefined} sizes={sizes} width={image?.width} height={image?.height} alt={alt} loading={eager?"eager":"lazy"} decoding="async" fetchpriority={eager?"high":undefined} />

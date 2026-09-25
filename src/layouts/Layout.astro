@@ -1,0 +1,43 @@
+---
+import "../styles/global.css";
+import site from "../data/site.json";
+interface Props { title?:string; description?:string; home?:boolean; canonical?:string; image?:string; noindex?:boolean; }
+const {title="Antonio Mariniello — Think positive!", description="Il portfolio fotografico di Antonio Mariniello. Viaggi, eventi, progetti e ritratti. Milan / Naples.",home=false,canonical=Astro.url.pathname,image="/wp-content/uploads/2022/09/zanzibar.jpg",noindex=false}=Astro.props;
+const absolute=new URL(canonical,Astro.site);
+---
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#090909" />
+<title>{title}</title><meta name="description" content={description} />
+<link rel="canonical" href={absolute} />
+<meta property="og:type" content="website" /><meta property="og:title" content={title} />
+<meta property="og:description" content={description} /><meta property="og:url" content={absolute} />
+<meta property="og:image" content={new URL(image,Astro.site)} />
+<meta name="twitter:card" content="summary_large_image" />
+{noindex && <meta name="robots" content="noindex,follow" />}
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+</head>
+<body class:list={[{ "home-page":home }]}>
+<a class="skip-link" href="#main">Vai al contenuto</a>
+<header class="site-header">
+ <div class="brand-group">
+  <button class="menu-toggle" aria-label="Apri menu" aria-controls="navigation" aria-expanded="false"><span></span><span></span></button>
+  <a class="brand" href="/" aria-label="Antonio Mariniello — Home"><img src="/wp-content/uploads/2022/09/logo_w.png" alt="[AM]" width="90" height="48" /></a>
+ </div>
+ <nav class="quick-nav" aria-label="Navigazione principale"><a href="/collection/164-2/" aria-current={Astro.url.pathname.includes("/collection/")?"page":undefined}>Gallery</a><a href="/about/" aria-current={Astro.url.pathname==="/about/"?"page":undefined}>About</a></nav>
+</header>
+<dialog id="navigation" class="navigation" aria-label="Menu di navigazione">
+ <div class="navigation-top"><a class="wordmark" href="/">[AM]</a><button class="menu-close" aria-label="Chiudi menu">Chiudi <span>×</span></button></div>
+ <div class="navigation-body"><p class="eyebrow">Antonio Mariniello — Photography</p><nav aria-label="Tutte le pagine"><a href="/collection/164-2/" class="nav-gallery">Gallery</a>{site.albums.map((a,i)=><a class="nav-album" href={a.path}><span class="nav-number">0{i+1}</span>{a.title}<span class="nav-count">{a.photos.length}</span></a>)}<a href="/about/" class="nav-about">About</a></nav></div>
+ <div class="navigation-footer"><span>Milan / Naples</span><div>{site.socials.map(s=><a href={s.url} target="_blank" rel="noreferrer">{s.name}</a>)}</div></div>
+</dialog>
+<main id="main"><slot /></main>
+<footer class:list={["site-footer",{"floating-footer":home}]}>
+ <span>© {new Date().getFullYear()} Antonio Mariniello</span>
+ <div class="footer-links">{site.socials.map(s=><a href={s.url} target="_blank" rel="noreferrer">{s.name}</a>)}<a href="/privacy-policy/">Privacy</a></div>
+</footer>
+<script>import "../scripts/navigation";</script>
+</body></html>

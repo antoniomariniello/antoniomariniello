@@ -1,0 +1,28 @@
+{
+  "source": "https://www.antoniomariniello.com",
+  "captured": "2026-09-25",
+  "albums": {
+    "world": 65,
+    "events": 14,
+    "work": 30,
+    "portraiture": 52
+  },
+  "homeSlides": 17,
+  "assets": 374,
+  "errors": [],
+  "routes": [
+    "https://www.antoniomariniello.com/about/",
+    "https://www.antoniomariniello.com/",
+    "https://www.antoniomariniello.com/privacy-policy/",
+    "https://www.antoniomariniello.com/album/world/",
+    "https://www.antoniomariniello.com/album/events/",
+    "https://www.antoniomariniello.com/album/work/",
+    "https://www.antoniomariniello.com/album/portraiture/",
+    "https://www.antoniomariniello.com/gallery/world/",
+    "https://www.antoniomariniello.com/gallery/events/",
+    "https://www.antoniomariniello.com/gallery/work/",
+    "https://www.antoniomariniello.com/gallery/portraiture/",
+    "https://www.antoniomariniello.com/collection/164-2/",
+    "https://www.antoniomariniello.com/ciao-mondo/"
+  ]
+}

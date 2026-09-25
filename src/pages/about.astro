@@ -1,0 +1,11 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Photo from "../components/Photo.astro";
+import site from "../data/site.json";
+---
+<Layout title="About — Antonio Mariniello" description="Antonio Mariniello. Project manager e fotografo, tra Milano e Napoli. Think positive!">
+<section class="about">
+<div class="about-photo"><Photo src="/wp-content/uploads/2022/09/antonio_occhio.jpg" alt="Autoritratto di Antonio Mariniello con la macchina fotografica" eager={true} /><span class="image-note">Behind the lens.</span></div>
+<div class="about-copy"><p class="eyebrow">Milan / Naples</p><h1>Antonio<br />Mariniello<span class="period">.</span></h1><p class="about-roles">Project manager.<br />Photographer.</p><div class="ganbaru"><span lang="ja">頑張る</span><p>Ganbaru</p></div><p class="about-motto">Think positive!</p><div class="travel-list"><span class="eyebrow">On the road</span><p aria-label="Italia, Giappone, Francia, Spagna, Austria, Svizzera, Belgio, Regno Unito, Irlanda, Turchia, Grecia, Egitto, Germania, Paesi Bassi, Danimarca, Slovacchia, Ungheria, Malta, Tanzania, Romania, Bulgaria, San Marino, Portogallo, Polonia">🇮🇹 🇯🇵 🇫🇷 🇪🇸 🇦🇹 🇨🇭 🇧🇪 🇬🇧 🇮🇪 🇹🇷 🇬🇷 🇪🇬 🇩🇪 🇳🇱 🇩🇰 🇸🇰 🇭🇺 🇲🇹 🇹🇿 🇷🇴 🇧🇬 🇸🇲 🇵🇹 🇵🇱</p></div></div>
+</section>
+</Layout>

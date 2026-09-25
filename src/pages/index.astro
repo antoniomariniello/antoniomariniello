@@ -1,0 +1,20 @@
+---
+import Layout from "../layouts/Layout.astro";
+import site from "../data/site.json";
+import images from "../data/images.json";
+const slides=site.slides.map(s=>({ ...s, image:images[s.src as keyof typeof images] }));
+---
+<Layout home={true}>
+<h1 class="sr-only">Antonio Mariniello — Portfolio fotografico</h1>
+<section class="hero" aria-label="Fotografie di viaggio" aria-roledescription="carosello">
+ <div class="slides">{slides.map((s,i)=><figure class:list={["slide",{"is-active":i===0}]} aria-hidden={i!==0} data-title={s.title}>
+ <img src={i===0?s.image.variants[s.image.variants.length-1].src:undefined} data-src={s.image.variants[s.image.variants.length-1].src} alt={s.title+" — fotografia di Antonio Mariniello"} width={s.image.width} height={s.image.height} fetchpriority={i===0?"high":undefined} decoding="async" />
+ </figure>)}</div>
+ <div class="hero-shade"></div>
+ <div class="hero-caption"><p class="eyebrow">Through my eyes</p><h2 id="slide-title">{site.slides[0].title}</h2><a class="hero-link" href="/collection/164-2/">Esplora le gallerie</a></div>
+ <div class="slide-controls"><span class="slide-count"><span id="slide-index">01</span><span class="count-divider"></span>{String(site.slides.length).padStart(2,"0")}</span><button id="previous-slide" aria-label="Foto precedente">←</button><button id="next-slide" aria-label="Foto successiva">→</button><button id="pause-slides" aria-label="Pausa presentazione" aria-pressed="false">Ⅱ</button></div>
+ <p class="sr-only" id="slide-announcement" aria-live="polite"></p>
+</section>
+<noscript><div class="no-script-link"><a href="/collection/164-2/">Visita tutte le gallerie fotografiche →</a></div></noscript>
+</Layout>
+<script>import "../scripts/slideshow";</script>

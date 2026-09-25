@@ -1,0 +1,13 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Photo from "../../components/Photo.astro";
+import site from "../../data/site.json";
+const order=["work","portraiture","events","world"];
+const albums=order.map(slug=>site.albums.find(a=>a.slug===slug)!);
+---
+<Layout title="Gallery — Antonio Mariniello" description="Quattro modi di guardare: Work, Portraiture, Events e World. Le gallerie fotografiche di Antonio Mariniello.">
+<section class="collection-intro"><p class="eyebrow">Antonio Mariniello — Photography</p><h1>Gallery<span class="period">.</span></h1><p>Quattro prospettive. Un solo sguardo.</p></section>
+<section class="collection-grid" aria-label="Gallerie fotografiche">{albums.map((a,i)=>
+<a class="collection-card" href={a.path}><Photo src={a.cover} alt={a.title+" — selezione fotografica"} sizes="(max-width: 640px) 100vw, (max-width: 1000px) 50vw, 25vw" eager={i<2} /><div class="collection-shade"></div><span class="collection-number">0{i+1}</span><div class="collection-caption"><p>{a.photos.length} fotografie</p><h2>{a.title}</h2></div></a>
+)}</section>
+</Layout>
